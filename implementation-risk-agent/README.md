@@ -1,8 +1,8 @@
-# Hello Heart Launch Risk Detection Agent — Mock Demo
+# Implementation Risk Detection Agent — Mock Demo
 
 A portfolio/demo project showing how an Implementation Manager could use an AI-enabled workflow to detect client launch risk across Salesforce, Asana, Slack, and Calendar.
 
-> **Important:** This is a mock implementation using synthetic data. It does not connect to Hello Heart systems or contain real client information.
+> **Important:** This is a mock implementation using synthetic data. It does not connect to any systems or contain real client information.
 
 ## What this demonstrates
 
