@@ -31,7 +31,7 @@ with st.sidebar:
     )
     st.info(
         "All data in this demo is synthetic. "
-        "No real Hello Heart or client information is used."
+        "No real company or client information is used."
     )
 
 sf = get_salesforce_record()
