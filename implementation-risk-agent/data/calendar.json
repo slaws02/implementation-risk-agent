@@ -1,0 +1,31 @@
+[
+  {
+    "event_id": "GC-201",
+    "title": "Acme Weekly Implementation Status",
+    "date": "2026-09-08",
+    "attendees": [
+      "Implementation",
+      "Client"
+    ]
+  },
+  {
+    "event_id": "GC-202",
+    "title": "Eligibility Testing Checkpoint",
+    "date": "2026-09-09",
+    "attendees": [
+      "Implementation",
+      "Vendor Operations",
+      "Engineering"
+    ]
+  },
+  {
+    "event_id": "GC-203",
+    "title": "Acme Go-Live",
+    "date": "2026-09-15",
+    "attendees": [
+      "Implementation",
+      "Client",
+      "Support"
+    ]
+  }
+]
