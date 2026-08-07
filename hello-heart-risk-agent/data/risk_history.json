@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-09-01",
+    "score": 22,
+    "severity": "Low"
+  },
+  {
+    "date": "2026-09-03",
+    "score": 28,
+    "severity": "Low"
+  },
+  {
+    "date": "2026-09-05",
+    "score": 46,
+    "severity": "Medium"
+  },
+  {
+    "date": "2026-09-06",
+    "score": 55,
+    "severity": "Medium"
+  }
+]

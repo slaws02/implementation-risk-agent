@@ -1,0 +1,21 @@
+{
+  "client_name": "Acme Manufacturing",
+  "account_id": "SF-ACME-001",
+  "implementation_stage": "Pre-Launch",
+  "launch_date": "2026-09-15",
+  "products": [
+    "Digital Heart Health Program",
+    "SSO"
+  ],
+  "implementation_manager": "Jordan Lee",
+  "client_contacts": {
+    "executive_sponsor": "Morgan Reed",
+    "technical_contact": "Taylor Quinn"
+  },
+  "required_fields": {
+    "eligibility_file_received": true,
+    "billing_contact_confirmed": true,
+    "security_approval": true,
+    "sso_metadata_received": false
+  }
+}
